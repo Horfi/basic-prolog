@@ -1,4 +1,4 @@
-# basic-prolog
+# basic-prolog.
 basic prolog
 
 
